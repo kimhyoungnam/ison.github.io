@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "I$ON"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **programmer**."
+  bio              : "I am a **programmer**."
   location         : "Seoul"
   email            : "hnking1004@naver.com"
   links:
